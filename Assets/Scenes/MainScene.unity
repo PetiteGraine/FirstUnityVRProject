@@ -2341,7 +2341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1147717347}
   m_Layer: 9
-  m_Name: Bullet Spawn Position
+  m_Name: Spawn Bullet Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
